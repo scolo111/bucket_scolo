@@ -10,8 +10,8 @@
             "OnTimer.exe",
             "OnTimer"
         ]
-    ]
-    "persist": [
-        "OnTimer.db",
     ],
+    "persist"     : [
+        "OnTimer.db",
+    ]
 }
