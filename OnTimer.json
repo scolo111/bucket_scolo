@@ -12,6 +12,6 @@
         ]
     ],
     "persist"     : [
-        "OnTimer.db",
+        "OnTimer.db"
     ]
 }
