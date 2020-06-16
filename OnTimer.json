@@ -1,0 +1,15 @@
+{
+    "homepage": "https://yryz.net/",
+    "description": "A windwos schedule tool",
+    "version": "1.3d",
+    "license": "Freeware",
+    "url": "https://yryz.net/soft/OnTimer.rar",
+    "extract_dir": "OnTimer",
+    "shortcuts": [
+        [
+            "OnTimer.exe",
+            "OnTimer"
+        ]
+    ]
+}
+Terms
